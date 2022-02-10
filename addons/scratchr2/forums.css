@@ -37,7 +37,7 @@ body > #pagewrapper {
   border: none;
 }
 #brdheader .box-head h2 {
-  padding: 5px 0;
+  padding: 10px 5px;
   margin-bottom: 16px;
   color: #fff;
   font-size: 40px;
@@ -147,7 +147,7 @@ body > #pagewrapper {
 .pagination a {
   display: inline-block;
   min-width: 8px;
-  padding: 0 5px;
+  padding: 5px 10px;
   background-color: var(--darkWww-box, white);
   border: 1px solid var(--darkWww-border-15, rgba(0, 0, 0, 0.15));
   border-radius: 10px;
